@@ -1,2 +1,5 @@
 platforms
 merges
+*.iml
+.idea
+.DS_Store
